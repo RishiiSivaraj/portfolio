@@ -98,7 +98,7 @@ const Footer = () => {
                 </div>
                 <div className="ml-3">
                   <p className="text-sm text-white">Phone</p>
-                  <a href="tel:+918123456789" className="text-white transition">+91 8123456789</a>
+                  <a href="tel:+919443200138" className="text-white transition">+91 9443200138</a>
                 </div>
               </li>
             </ul>
