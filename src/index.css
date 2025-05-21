@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+
+@layer base { /* Correct layer for global styles */
+  :root {
+    --color-primary: #240B36;
+    --color-secondary: #C31432;
+    --color-background: #EEEEEE;
+    --color-foreground: #1E1C1C;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
+

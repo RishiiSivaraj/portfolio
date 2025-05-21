@@ -1,0 +1,88 @@
+{
+  "about": {
+    "title": "About Me",
+    "overview": "Hi 👋 , I'm Rishii Sivaraj, a passionate Computer Science Engineering student currently in my 3rd year of a 6-year integrated M.Tech program at Bharathidasan University.",
+    "subtitle": "Throughout my academic journey, I’ve actively engaged in a variety of hands-on technical experiences:",
+    "description": [
+      "✦  Managed server configurations for university labs.",
+      "✦  Troubleshot and maintained systems with anti-virus and Linux OS administration.",
+      "✦  Worked on IoT projects, enhancing my hardware-software integration skills.",
+      "✦  Played a key role in organizing hackathon events including:",
+      "- A cybersecurity hackathon in association with the National Cybersecurity Council.",
+      "- A hackathon conducted by Hack Academy."
+    ]
+  },
+  "skills": {
+    "title": "Skills",
+    "overview": "A snapshot of the technologies and tools I work with.",
+    "categories": [{
+      "name": "Languages",
+      "items": ["JavaScript", "Java" , "Python", "HTML", "CSS", "SQL"]
+    },
+    {
+      "name": "Frameworks & Libraries",
+      "items": ["React", "Tailwind CSS", "Node.js", "Express"]
+    },
+    {
+      "name": "Tools",
+      "items": ["Git", "Figma", "Vite", "VS Code","Code Sandbox","Burp Suite" ]
+    },
+    {
+      "name": "Systems & Platforms",
+      "items":["Linux OS" , "Windows OS"]
+
+    },
+    {
+      "name": "Soft Skills",
+      "items": ["Problem Solving", "Communication", "Teamwork", "Adaptability"]
+    }
+  ]
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "overview": "Whether you want to collaborate, talk tech, or just say hi — feel free to reach out.",
+    "description": "Here are the ways to connect with me 👇",
+    "email": "...",
+    "socials": [{
+      "platform": "Instagram",
+      "url": "https://instagram.com/done_something",
+      "username":"Rishii"
+      
+    },
+    {
+      "platform": "GitHub",
+      "url": "https://github.com/Rishii sivaraj/repo.git",
+      "username":"Rishii"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/rishii-sivaraj-sr",
+      "username":"Rishii"
+    }]
+  },
+  "certificates": {
+  "title": "Certificates",
+  "overview": "Some of the certifications I have earned over time.",
+  "items": [
+    {
+      "name": "Web Development Certification",
+      "provider": "IBM SkillsBuild",
+      "date": "November 2024",
+      "description": "This certification introduced me to the core concepts of modern web development, including frontend and backend technologies. I gained hands-on experience with HTML, CSS, JavaScript, and explored responsive design, accessibility, and cross-browser compatibility. I also built interfaces using React and connected them with backend services via REST APIs. The course enhanced my understanding of databases, server logic, and the full-stack development lifecycle. It provided real-world practice through projects and exercises that reflected common development challenges."
+    },
+    {
+      "name": "Top 10 Finalist – Cybersecurity Hackathon",
+      "provider": "National Cybersecurity Council",
+      "date": "November 2024",
+      "description": "Competed in a national-level hackathon focused on solving real-world cybersecurity issues. My team developed a secure web application and implemented protection mechanisms against common threats such as SQL injection. I was responsible for backend logic, code security, and vulnerability testing using tools like Burp Suite. This event allowed me to apply ethical hacking techniques, develop secure coding practices, and collaborate under pressure. Securing a Top 10 position validated my growing proficiency in cybersecurity and teamwork."
+    },
+    {
+      "name": "10th Place – Hack Academy Hackathon",
+      "provider": "Hack Academy",
+      "date": "February 2025",
+      "description": "In this innovation-focused hackathon, my team built an IoT-based system that monitored environmental data in real time. I worked on integrating hardware sensors with backend data processing, and designed dashboards for visual insights. This experience helped me connect my software skills with physical systems and strengthened my ability to work on fast-paced technical challenges. Placing in the top 10 teams highlighted our solution’s impact and execution quality within a short time frame."
+    }
+  ]
+}
+
+}
