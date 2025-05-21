@@ -46,18 +46,18 @@
     "socials": [{
       "platform": "Instagram",
       "url": "https://instagram.com/done_something",
-      "username":"Rishii"
+      "username":"@done_something"
       
     },
     {
       "platform": "GitHub",
-      "url": "https://github.com/Rishii sivaraj/repo.git",
-      "username":"Rishii"
+      "url": "https://github.com/RishiiSivaraj",
+      "username":"@RishiiSivaraj"
     },
     {
       "platform": "LinkedIn",
       "url": "https://www.linkedin.com/in/rishii-sivaraj-sr",
-      "username":"Rishii"
+      "username":"@RishiiSivaraj"
     }]
   },
   "certificates": {
