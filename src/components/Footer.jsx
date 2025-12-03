@@ -41,17 +41,17 @@ const Footer = () => {
             <div className="flex space-x-4">
               {/* Social Icons */}
               {/* GitHub */}
-              <a href="#" className="w-10 h-10 rounded-full bg-[var(--color-background)] text-[var(--color-foreground)] flex items-center justify-center hover:bg-[var(--color-foreground)] hover:text-[var(--color-background)] transition-all duration-300">
+              <a href="https://github.com/RishiiSivaraj" target='_blank' className="w-10 h-10 rounded-full bg-[var(--color-background)] text-[var(--color-foreground)] flex items-center justify-center hover:bg-[var(--color-foreground)] hover:text-[var(--color-background)] transition-all duration-300">
                 {/* Add GitHub Icon */}
                 <FaGithub size={25} />
               </a>
               {/* Instagram */}
-              <a href="#" className="w-10 h-10 rounded-full bg-[var(--color-background)] text-[var(--color-foreground)] flex items-center justify-center hover:bg-gradient-to-r from-[#833ab4] via-[#fd1d1d] to-[#fcb045] hover:text-[var(--color-background)] transition-all duration-300">
+              <a href="https://www.instagram.com/done_something" target='_blank' className="w-10 h-10 rounded-full bg-[var(--color-background)] text-[var(--color-foreground)] flex items-center justify-center hover:bg-gradient-to-r from-[#833ab4] via-[#fd1d1d] to-[#fcb045] hover:text-[var(--color-background)] transition-all duration-300">
                 {/* Add Instagram Icon */}
                 <FaInstagram  size={25}/>
               </a>
               {/* Linkedin */}
-              <a href="#" className="w-10 h-10 rounded-full bg-[var(--color-background)] text-[var(--color-foreground)] flex items-center justify-center hover:text-[#0072b1] hover:shadow-lg transition-all duration-300">
+              <a href="https://www.linkedin.com/in/rishii-sivaraj-sr/" target='_blank' className="w-10 h-10 rounded-full bg-[var(--color-background)] text-[var(--color-foreground)] flex items-center justify-center hover:text-[#0072b1] hover:shadow-lg transition-all duration-300">
                 {/* Add Linkedin Icon */}
                 <FaLinkedin size={25}/>
               </a>
