@@ -71,6 +71,12 @@
       "description": "This certification introduced me to the core concepts of modern web development, including frontend and backend technologies. I gained hands-on experience with HTML, CSS, JavaScript, and explored responsive design, accessibility, and cross-browser compatibility. I also built interfaces using React and connected them with backend services via REST APIs. The course enhanced my understanding of databases, server logic, and the full-stack development lifecycle. It provided real-world practice through projects and exercises that reflected common development challenges."
     },
     {
+      "name": "Portfolio Development Bootcamp",
+      "provider": "DevTown",
+      "date": "June 2024",
+      "description": "Completed an intensive portfolio development bootcamp focused on building full-stack web applications using React.js, Tailwind CSS, and Node.js. I earned both the project completion certificate and the participation certificate. During this program, I developed a fully functional personal portfolio website that demonstrated my UI/UX understanding, component-based development workflow, and responsive design skills. On the backend, I implemented server logic using Node.js and explored API structures, deployment workflows, and scalable code organization. This bootcamp strengthened my real-world development skills and helped me build production-ready components from scratch."
+    },
+    {
       "name": "Top 10 Finalist – Cybersecurity Hackathon",
       "provider": "National Cybersecurity Council",
       "date": "November 2024",
